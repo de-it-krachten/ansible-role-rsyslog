@@ -1,0 +1,13 @@
+---
+
+# Generic
+generic:
+  role: ansible-role-rsyslog
+  role_short: rsyslog
+  role_description: |
+    Install/manages rsyslog on various platforms 
+  collections: []
+
+molecule:
+  requirements:
+    roles_extra: []
