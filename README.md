@@ -44,13 +44,16 @@ Note:
 ## Role Variables
 ### defaults/main.yml
 <pre><code>
-# List of packages
+# Packages to install
 rsyslog_packages:
   - rsyslog
 
 # List of services
 rsyslog_services:
   - rsyslog
+
+# Custom configuration
+rsyslog_confd: []
 </pre></code>
 
 
