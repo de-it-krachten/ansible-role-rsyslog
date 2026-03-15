@@ -1,3 +1,13 @@
+# [1.4.0](https://github.com/de-it-krachten/ansible-role-rsyslog/compare/v1.3.0...v1.4.0) (2026-03-15)
+
+
+### Features
+
+* Added support for Fedora 43 ([7d9760c](https://github.com/de-it-krachten/ansible-role-rsyslog/commit/7d9760ca1829b2b5a251cd3b3a770839033fe182))
+* Drop support for Fedora 41 ([96e0398](https://github.com/de-it-krachten/ansible-role-rsyslog/commit/96e03980332786d7d57a616224eda6f1f895c72a))
+* Drop support for openSUSE Leap 15 ([f9df8c7](https://github.com/de-it-krachten/ansible-role-rsyslog/commit/f9df8c76467b4c83f4d9cf1bcdf52b6bafe299c7))
+* Drop support for SUSE Linux Enterprise 15 ([0974c19](https://github.com/de-it-krachten/ansible-role-rsyslog/commit/0974c19d702b7dc5831ab3d5fdc62df56c12255d))
+
 # [1.3.0](https://github.com/de-it-krachten/ansible-role-rsyslog/compare/v1.2.0...v1.3.0) (2025-08-07)
 
 
