@@ -1,3 +1,10 @@
+# [1.6.0](https://github.com/de-it-krachten/ansible-role-rsyslog/compare/v1.5.0...v1.6.0) (2026-10-30)
+
+
+### Features
+
+* Drop support for Debian 11 (Bullseye) ([9c69a69](https://github.com/de-it-krachten/ansible-role-rsyslog/commit/9c69a692cc72a65a0759546b425e1ef013122e18))
+
 # [1.5.0](https://github.com/de-it-krachten/ansible-role-rsyslog/compare/v1.4.0...v1.5.0) (2026-07-26)
 
 
